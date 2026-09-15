@@ -14,9 +14,10 @@ Estou migrando para a área de dados e decidi estudar de forma aberta. Este perf
 
 ### Repositórios
 
-- **sql-estudos** - exercícios e anotações de SQL, organizados por tema
-- **powerbi-estudos** - medidas DAX, modelagem e dashboards de treino
-- **projetos** - análises completas, do banco de dados ao dashboard
+- [sql-estudos](https://github.com/LucasPessoabaiense/sql-estudos) - exercícios e anotações de SQL, organizados por tema
+- [powerbi-estudos](https://github.com/LucasPessoabaiense/powerbi-estudos) - modelagem, DAX e dashboards de treino
+
+Projetos completos, do banco de dados ao dashboard, vêm a seguir. Vou publicando conforme termino.
 
 ### Ferramentas que uso e estudo
 
